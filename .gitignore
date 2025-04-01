@@ -1,0 +1,25 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Pytest
+.cache/
+
+# MyPy
+.mypy_cache/
+
+# VS Code
+.vscode/
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# Local configuration files
+*.ini
+*.log
+*.bak
+*.swp
+
+#
+data/*.txt
